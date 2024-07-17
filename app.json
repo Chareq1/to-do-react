@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "to-do-list",
+    "name": "Lista To-Do",
     "slug": "to-do-list",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.todolist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
